@@ -1,4 +1,4 @@
-# Układ roboczy koparki – Projekt CAD
+# Układ roboczy koparki
 
 Model 3D części układu roboczego koparki, odwzorowujący mechanikę ramienia oraz kinematykę siłownika.
 
